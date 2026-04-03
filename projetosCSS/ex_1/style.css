@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.titulo {
+    font-size: 100px;
+    color: green;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.secundario {
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+}

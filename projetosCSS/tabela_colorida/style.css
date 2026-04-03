@@ -1,0 +1,39 @@
+* {
+    font-family: Arial;
+    font-size: 12px;
+}
+
+table {
+    border: 2;
+    width: 600px;
+}
+
+.title {
+    background-color: #0D5188;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.linha1 {
+    background-color: #66C5E3;
+}
+
+.linhaclara {
+    background-color: #C7E7F3;
+}
+
+.cinza {
+    background-color: silver;
+    text-align: center;
+}
+
+.cidade {
+    color: #0D5188;
+    font-weight: bold;
+}
+
+.pop {
+    text-align: center;
+    width: 15%;
+}
