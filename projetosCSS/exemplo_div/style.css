@@ -1,0 +1,46 @@
+div {
+    width: 400px;
+    height: 300px;
+}
+
+.center{
+    background-color: green;
+    margin: 0 auto;
+}
+.right{
+    background-color: blue;
+    float: right;
+
+}
+.left{
+    background-color: red;
+    float: left;
+}
+
+.fixed{
+    background-color: yellow;
+    position: fixed;
+    top: 200px;
+    left: 200px;
+}
+
+.relative{
+    background-color: black;
+    position: relative;
+    top: 120px;
+    left: 300px;
+}
+
+.inside {
+    padding: 50px;
+    margin: 0 auto;
+    background-color: gray;
+    width: 50px;
+    height: 30px;
+}
+
+.absolute {
+    position: absolute;
+    background-color: orange;
+    left: 600px;
+}
